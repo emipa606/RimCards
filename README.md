@@ -102,8 +102,8 @@ All RimCards exist in a **Shiny Version** that cost more to buy from the RimCard
 
 -------------------
 
-Let me know if there&apos;s a problem, spelling errors, or if you would like to see more **RimCards** !
-I&apos;ll regularly check.
+Let me know if there's a problem, spelling errors, or if you would like to see more **RimCards** !
+I'll regularly check.
 
 **Hope you enjoy it.
 Stokovski.**
