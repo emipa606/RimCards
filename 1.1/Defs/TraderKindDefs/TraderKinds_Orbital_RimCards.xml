@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TraderKindDef>
+    <defName>Orbital_RimCardsTrader</defName>
+    <label>RimCards Trader</label>
+    <commonality>1</commonality>
+    <orbital>true</orbital>
+    <stockGenerators>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Silver</thingDef>
+        <countRange>
+          <min>2000</min>
+          <max>4000</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_Category">
+        <categoryDef>CommonRM</categoryDef>
+        <thingDefCountRange>
+          <min>2</min>
+          <max>6</max>
+        </thingDefCountRange>
+        <countRange>
+          <min>1</min>
+          <max>2</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_Category">
+        <categoryDef>RareRM</categoryDef>
+        <thingDefCountRange>
+          <min>1</min>
+          <max>3</max>
+        </thingDefCountRange>
+        <countRange>
+          <min>0</min>
+          <max>1</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_Category">
+        <categoryDef>EpicRM</categoryDef>
+        <thingDefCountRange>
+          <min>0</min>
+          <max>2</max>
+        </thingDefCountRange>
+        <countRange>
+          <min>0</min>
+          <max>1</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_Category">
+        <categoryDef>LegendaryRM</categoryDef>
+        <thingDefCountRange>
+          <min>0</min>
+          <max>1</max>
+        </thingDefCountRange>
+        <countRange>
+          <min>0</min>
+          <max>1</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_Category">
+        <categoryDef>SCommonRM</categoryDef>
+        <thingDefCountRange>
+          <min>1</min>
+          <max>2</max>
+        </thingDefCountRange>
+        <countRange>
+          <min>1</min>
+          <max>2</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_Category">
+        <categoryDef>SRareRM</categoryDef>
+        <thingDefCountRange>
+          <min>0</min>
+          <max>1</max>
+        </thingDefCountRange>
+        <countRange>
+          <min>0</min>
+          <max>1</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_Category">
+        <categoryDef>SEpicRM</categoryDef>
+        <thingDefCountRange>
+          <min>0</min>
+          <max>1</max>
+        </thingDefCountRange>
+        <countRange>
+          <min>0</min>
+          <max>1</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_Category">
+        <categoryDef>SLegendaryRM</categoryDef>
+        <thingDefCountRange>
+          <min>0</min>
+          <max>1</max>
+        </thingDefCountRange>
+        <countRange>
+          <min>0</min>
+          <max>1</max>
+        </countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>RimCardDust</thingDef>
+        <countRange>
+          <min>-0</min>
+          <max>36</max>
+        </countRange>
+      </li>
+    </stockGenerators>
+  </TraderKindDef>
+</Defs>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>RimCards (Continued)</name>
+  <packageId>Mlie.RimCards</packageId>
+  <author>Stokovski</author>
+  <url>https://github.com/emipa606/RimCards</url>
+  <supportedVersions>
+    <li>1.1</li>
+    <li>1.3</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of Stokovskis mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=1951086368
+
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+
+[table]
+    [tr]
+        [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+        [td][url=https://github.com/emipa606/RimCards][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+Mechanoid Expansion here :
+https://steamcommunity.com/sharedfiles/filedetails/?id=2036838446
+
+[h1][b]RIMCARDS TO COLLECT ![/b][/h1]
+
+Collect all the [b]RimCards[/b] and build the [b]RimCards Trophy[/b] to show off.
+Collect all [b]Shiny RimCards[/b] and build the [b]RimCards Shiny Trophy[/b] to show off even more.
+
+There are [b]45 RimCards[/b] to collect !
+
+[h2][b]LEGENDARY[/b][/h2] 
+[list][*][b]Mighty Thrumbo[/b]
+[*][b]Fearless Megasloth[/b]
+[*][b]Cruel Megaspider[/b]
+[/list]
+
+[h2][b]EPIC[/b][/h2]
+[list][*][b]Steady Muffalo[/b]
+[*][b]Clever Lynx[/b]
+[*][b]Feral Warg[/b]
+[*][b]Brave Arctic Wolf[/b]
+[*][b]Vicious Cobra[/b]
+[*][b]Massive Elephant[/b]
+[/list]
+
+[h2][b]RARE[/b][/h2]
+[list][*][b]Gentle Caribou[/b]
+[*][b]Sleepy Musk Ox[/b]
+[*][b]Swift Panther[/b]
+[*][b]Unstable Boomalope[/b]
+[*][b]Funny Ostrich[/b]
+[*][b]Colorful Cassowary[/b]
+[*][b]Muscular Grizzly[/b]
+[*][b]Aggressive Ibex[/b]
+[*][b]Psycho Cat[/b]
+[*][b]Noble Rhinoceros[/b]
+[*][b]Lucky Monkey[/b]
+[*][b]Bipolar Polar Bear[/b]
+[/list]
+
+[h2][b]COMMON[/b][/h2]
+[list][*][b]Peaceful Alpaca[/b]
+[*][b]Stupid Donkey[/b]
+[*][b]Friendly Horse[/b]
+[*][b]Sassy Chicken[/b]
+[*][b]Evil Yorkshire Terrier[/b]
+[*][b]Happy Human[/b]
+[*][b]Smart Fox[/b]
+[*][b]Reliable Camel[/b]
+[*][b]Gluttonous Pig[/b]
+[*][b]Inevitable Chinchilla[/b]
+[*][b]Independent Iguana[/b]
+[*][b]Hungry Alphabeaver[/b]
+[*][b]Calm Capybara[/b]
+[*][b]Kind Cow[/b]
+[*][b]Magnificent Deer[/b]
+[*][b]Random Elk[/b]
+[*][b]Energetic Hare[/b]
+[*][b]Emo Emu[/b]
+[*][b]Silent Fennec Fox[/b]
+[*][b]Lusty Gazelle[/b]
+[*][b]Elegant Husky[/b]
+[*][b]Helpful Labrador[/b]
+[*][b]Fat Turkey[/b]
+[*][b]Noisy Squirrel[/b]
+[/list]
+
+
+You can disenchant [b]RimCards[/b] to get [b]RimCard Dust[/b] using the [b]Disenchanting RimCard Table.[/b]
+
+You can craft RimCards with dust  and other ingredients (depending on the card) using the [b]Crafting Rimcard Table.[/b]
+
+You can buy them from a dedicated [b]RimCards Trader[/b].
+
+All RimCards exist in a [b]Shiny Version[/b] that cost more to buy from the RimCards Trader.
+
+
+-------------------
+
+Let me know if there&apos;s a problem, spelling errors, or if you would like to see more [b]RimCards[/b] !
+I&apos;ll regularly check.
+
+[b]Hope you enjoy it.
+Stokovski.[/b]
+
+My other mod here : [url]https://steamcommunity.com/sharedfiles/filedetails/?id=1960216817[/url]
+
+-------------------
+
+
+Based on :
+[b]Fantastic Collectables[/b] by Spesscarp for RimCards and Trophies
+[b]Retro Joy[/b] by Chicken Plucker for the RimCard Playing Table
+
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
+</ModMetaData>
+

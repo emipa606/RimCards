@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Categorization for RimCards -->
+  <ThingCategoryDef>
+    <defName>RimCards</defName>
+    <label>RimCards</label>
+    <parent>Root</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>RimCardsBasicSet</defName>
+    <label>Basic Set</label>
+    <parent>RimCards</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>NormalRimCards</defName>
+    <label>Normal RimCards</label>
+    <parent>RimCardsBasicSet</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>CommonRM</defName>
+    <label>Common Rimcards</label>
+    <parent>NormalRimCards</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>RareRM</defName>
+    <label>Rare Rimcards</label>
+    <parent>NormalRimCards</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>EpicRM</defName>
+    <label>Epic Rimcards</label>
+    <parent>NormalRimCards</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>LegendaryRM</defName>
+    <label>legendary Rimcards</label>
+    <parent>NormalRimCards</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>ShinyRimCards</defName>
+    <label>Shiny RimCards</label>
+    <parent>RimCardsBasicSet</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>SCommonRM</defName>
+    <label>Shiny Common Rimcards</label>
+    <parent>ShinyRimCards</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>SRareRM</defName>
+    <label>Shiny Rare Rimcards</label>
+    <parent>ShinyRimCards</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>SEpicRM</defName>
+    <label>Shiny Epic Rimcards</label>
+    <parent>ShinyRimCards</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>SLegendaryRM</defName>
+    <label>Shiny Legendary Rimcards</label>
+    <parent>ShinyRimCards</parent>
+  </ThingCategoryDef>
+</Defs>

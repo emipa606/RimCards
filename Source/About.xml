@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>RimCards</name>
+  <author>Stokovski</author>
+  <packageId>stokovski.rimcards</packageId>
+  <supportedVersions>
+    <li>1.1</li>
+  </supportedVersions>
+  <description>RIMCARDS TO COLLECT !
+
+Collect all the RimCards and build the RimCards Trophy to show off.
+Collect all Shiny RimCards and build the RimCards Shiny Trophy to show off even more.
+
+
+LEGENDARY
+    Mighty Thrumbo
+    Fearless Megasloth
+    Cruel Megaspider
+
+EPIC
+    Steady Muffalo
+    Clever Lynx
+    Feral Warg
+    Brave Arctic Wolf
+    Vicious Cobra
+
+RARE
+    Gentle Caribou
+    Sleepy Musk Ox
+    Swift Panther
+    Unstable Boomalope
+    Funny Ostrich
+    Colorful Cassowary
+    Muscular Grizzly
+
+COMMON
+    Peaceful Alpaca
+    Stupid Donkey
+    Friendly Horse
+    Sassy Chicken
+    Evil Yorkshire Terrier
+    Happy Human
+    Smart Fox
+    Reliable Camel
+    Gluttonous Pig
+    Inevitable Chinchilla
+    Independent Iguana
+
+
+You can disenchant RimCards to get RimCard Dust using the Disenchanting RimCard Table.
+You can craft RimCards with dust and other ingredients (depending on the card) using the Crafting Rimcard Table.
+You can buy them from a dedicated RimCards Trader.
+All RimCards exist in a Shiny Version that cost more to buy from the RimCards Trader.
+
+-------------------
+
+Let me know if there's a problem, spelling errors, or if you would like to see more RimCards !
+I'll regularly check.
+
+Hope you enjoy it.
+Stokovski.
+
+-------------------
+
+Based on :
+Fantastic Collectables by Spesscarp for RimCards and Trophies
+Retro Joy by Chicken Plucker for the RimCard Playing Table</description>
+</ModMetaData>

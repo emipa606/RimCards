@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ResourceBase">
+    <defName>RimCardDust</defName>
+    <label>RimCard Dust</label>
+    <description>Dust collected from disenchanting RimCards.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/Dust</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <useHitPoints>false</useHitPoints>
+    <statBases>
+      <MarketValue>10</MarketValue>
+      <Mass>0.001</Mass>
+    </statBases>
+    <thingCategories>
+      <li>ResourcesRaw</li>
+    </thingCategories>
+    <stackLimit>64</stackLimit>
+    <tradeTags>
+      <li>Orbital_RimCardsTrader</li>
+    </tradeTags>
+  </ThingDef>
+</Defs>
