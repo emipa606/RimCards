@@ -1,5 +1,8 @@
 # Changelog for RimCards
 
+1.0.2.0 - Missed the 1.2 version
+
+
 1.0.1.0 - Is steam down again?
 
 
