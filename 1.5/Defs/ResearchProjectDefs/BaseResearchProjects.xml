@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ResearchProjectDef>
+    <defName>RimCards</defName>
+    <label>RimCards</label>
+    <description>Allows you to disenchant and craft Rimcards.</description>
+    <baseCost>300</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>RimCards</tab>
+    <tags>
+    </tags>
+    <prerequisites>
+    </prerequisites>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>RimCardsDisenchanting</defName>
+    <label>RimCards Disenchanting</label>
+    <description>Allows you to disenchant Rimcards.</description>
+    <baseCost>500</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>RimCards</tab>
+    <tags>
+    </tags>
+    <prerequisites>
+      <li>RimCards</li>
+    </prerequisites>
+    <researchViewX>3</researchViewX>
+    <researchViewY>1</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>RimCardsCrafting</defName>
+    <label>RimCards Crafting</label>
+    <description>Allows you to craft Rimcards.</description>
+    <baseCost>500</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>RimCards</tab>
+    <tags>
+    </tags>
+    <prerequisites>
+      <li>RimCards</li>
+    </prerequisites>
+    <researchViewX>3</researchViewX>
+    <researchViewY>2</researchViewY>
+  </ResearchProjectDef>
+</Defs>
