@@ -137,6 +137,5 @@ Based on :
 [/list]
 
 [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2574106661][img]https://img.shields.io/github/v/release/emipa606/RimCards?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url]</description>
-  <modIconPath IgnoreIfNoMatchingField="True">ModIcon/RimCards</modIconPath>
-  <modVersion IgnoreIfNoMatchingField="True">1.5.0</modVersion>
+  <modVersion IgnoreIfNoMatchingField="True">1.5.1</modVersion>
 </ModMetaData>
