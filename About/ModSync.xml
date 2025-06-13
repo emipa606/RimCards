@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>178f5904-9b0b-401e-9ec6-fd4ceeed168b</ID>
   <ModName>RimCards (Continued)</ModName>
-  <Version>1.5.1</Version>
+  <Version>1.6.0</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,3 +12,4 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
+

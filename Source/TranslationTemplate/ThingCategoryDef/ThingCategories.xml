@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Common Rimcards -->
+  <CommonRM.label>Common Rimcards</CommonRM.label>
+  <!-- EN: Epic Rimcards -->
+  <EpicRM.label>Epic Rimcards</EpicRM.label>
+  <!-- EN: legendary Rimcards -->
+  <LegendaryRM.label>legendary Rimcards</LegendaryRM.label>
+  <!-- EN: Normal RimCards -->
+  <NormalRimCards.label>Normal RimCards</NormalRimCards.label>
+  <!-- EN: Rare Rimcards -->
+  <RareRM.label>Rare Rimcards</RareRM.label>
+  <!-- EN: RimCards -->
+  <RimCards.label>RimCards</RimCards.label>
+  <!-- EN: Basic Set -->
+  <RimCardsBasicSet.label>Basic Set</RimCardsBasicSet.label>
+  <!-- EN: Shiny Common Rimcards -->
+  <SCommonRM.label>Shiny Common Rimcards</SCommonRM.label>
+  <!-- EN: Shiny Epic Rimcards -->
+  <SEpicRM.label>Shiny Epic Rimcards</SEpicRM.label>
+  <!-- EN: Shiny RimCards -->
+  <ShinyRimCards.label>Shiny RimCards</ShinyRimCards.label>
+  <!-- EN: Shiny Legendary Rimcards -->
+  <SLegendaryRM.label>Shiny Legendary Rimcards</SLegendaryRM.label>
+  <!-- EN: Shiny Rare Rimcards -->
+  <SRareRM.label>Shiny Rare Rimcards</SRareRM.label>
+</LanguageData>

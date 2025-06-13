@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: RimCards -->
+  <RimCards.label>RimCards</RimCards.label>
+  <!-- EN: Allows you to disenchant and craft Rimcards. -->
+  <RimCards.description>Allows you to disenchant and craft Rimcards.</RimCards.description>
+  <!-- EN: RimCards Crafting -->
+  <RimCardsCrafting.label>RimCards Crafting</RimCardsCrafting.label>
+  <!-- EN: Allows you to craft Rimcards. -->
+  <RimCardsCrafting.description>Allows you to craft Rimcards.</RimCardsCrafting.description>
+  <!-- EN: RimCards Disenchanting -->
+  <RimCardsDisenchanting.label>RimCards Disenchanting</RimCardsDisenchanting.label>
+  <!-- EN: Allows you to disenchant Rimcards. -->
+  <RimCardsDisenchanting.description>Allows you to disenchant Rimcards.</RimCardsDisenchanting.description>
+</LanguageData>

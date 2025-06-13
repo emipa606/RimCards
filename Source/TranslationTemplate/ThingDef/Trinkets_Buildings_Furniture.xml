@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: RimCards Table -->
+  <rimcardsPlay.label>RimCards Table</rimcardsPlay.label>
+  <!-- EN: Perfect spot to practice your RimCards strategies. -->
+  <rimcardsPlay.description>Perfect spot to practice your RimCards strategies.</rimcardsPlay.description>
+  <!-- EN: RimCard Display -->
+  <rimcardsTable.label>RimCard Display</rimcardsTable.label>
+  <!-- EN: This might look like a regular table but it's actually made especially for RimCards. -->
+  <rimcardsTable.description>This might look like a regular table but it's actually made especially for RimCards.</rimcardsTable.description>
+  <!-- EN: RimCard Ultimate Deck -->
+  <trinkets_CollectAllCardsTrophy.label>RimCard Ultimate Deck</trinkets_CollectAllCardsTrophy.label>
+  <!-- EN: You're now ready to participate in your local tournament. You should ask raiders if they want to join. -->
+  <trinkets_CollectAllCardsTrophy.description>You're now ready to participate in your local tournament. You should ask raiders if they want to join.</trinkets_CollectAllCardsTrophy.description>
+  <!-- EN: RimCard Ultimate Shiny Deck -->
+  <trinkets_CollectAllShinyCardsTrophy.label>RimCard Ultimate Shiny Deck</trinkets_CollectAllShinyCardsTrophy.label>
+  <!-- EN: You're now ready to participate in your local tournament. Even raiders will be jealous of your shiny cards. -->
+  <trinkets_CollectAllShinyCardsTrophy.description>You're now ready to participate in your local tournament. Even raiders will be jealous of your shiny cards.</trinkets_CollectAllShinyCardsTrophy.description>
+</LanguageData>

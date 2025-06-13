@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Peaceful Alpaca - Common -->
+  <trinkets_alpacaCard.label>Peaceful Alpaca - Common</trinkets_alpacaCard.label>
+  <!-- EN: ATK : 600 / DEF : 800\n    \nSpecial Capacity - Extrem Softness\n\nBasic Set RimCard #22 -->
+  <trinkets_alpacaCard.description>ATK : 600 / DEF : 800
+    
+Special Capacity - Extrem Softness
+
+Basic Set RimCard #22</trinkets_alpacaCard.description>
+  <!-- EN: Peaceful Alpaca - Common SHINY -->
+  <trinkets_alpacashinyCard.label>Peaceful Alpaca - Common SHINY</trinkets_alpacashinyCard.label>
+  <!-- EN: ATK : 600 / DEF : 800\n    \nSpecial Capacity - Extrem Softness\n\nBasic Set RimCard #22 -->
+  <trinkets_alpacashinyCard.description>ATK : 600 / DEF : 800
+    
+Special Capacity - Extrem Softness
+
+Basic Set RimCard #22</trinkets_alpacashinyCard.description>
+  <!-- EN: Hungry Alphabeaver - Common -->
+  <trinkets_alphabeaverCard.label>Hungry Alphabeaver - Common</trinkets_alphabeaverCard.label>
+  <!-- EN: ATK : 300 / DEF : 200\n    \nSpecial Capacity - Great Feast\n\nBasic Set RimCard #33 -->
+  <trinkets_alphabeaverCard.description>ATK : 300 / DEF : 200
+    
+Special Capacity - Great Feast
+
+Basic Set RimCard #33</trinkets_alphabeaverCard.description>
+  <!-- EN: Hungry Alphabeaver - Common SHINY -->
+  <trinkets_alphabeavershinyCard.label>Hungry Alphabeaver - Common SHINY</trinkets_alphabeavershinyCard.label>
+  <!-- EN: ATK : 300 / DEF : 200\n    \nSpecial Capacity - Great Feast\n\nBasic Set RimCard #33 -->
+  <trinkets_alphabeavershinyCard.description>ATK : 300 / DEF : 200
+    
+Special Capacity - Great Feast
+
+Basic Set RimCard #33</trinkets_alphabeavershinyCard.description>
+  <!-- EN: Brave Arctic Wolf - Epic -->
+  <trinkets_arcticwolfCard.label>Brave Arctic Wolf - Epic</trinkets_arcticwolfCard.label>
+  <!-- EN: ATK : 1800 / DEF : 1400\n    \nSpecial Capacity - Ice Barrier\n\nBasic Set RimCard #7 -->
+  <trinkets_arcticwolfCard.description>ATK : 1800 / DEF : 1400
+    
+Special Capacity - Ice Barrier
+
+Basic Set RimCard #7</trinkets_arcticwolfCard.description>
+  <!-- EN: Brave Arctic Wolf - Epic SHINY -->
+  <trinkets_arcticwolfshinyCard.label>Brave Arctic Wolf - Epic SHINY</trinkets_arcticwolfshinyCard.label>
+  <!-- EN: ATK : 1800 / DEF : 1400\n    \nSpecial Capacity - Ice Barrier\n\nBasic Set RimCard #7 -->
+  <trinkets_arcticwolfshinyCard.description>ATK : 1800 / DEF : 1400
+    
+Special Capacity - Ice Barrier
+
+Basic Set RimCard #7</trinkets_arcticwolfshinyCard.description>
+  <!-- EN: Unstable Boomalope - Rare -->
+  <trinkets_boomalopeCard.label>Unstable Boomalope - Rare</trinkets_boomalopeCard.label>
+  <!-- EN: ATK : 1200 / DEF : 400\n    \nSpecial Capacity - Big Boom\n\nBasic Set RimCard #13 -->
+  <trinkets_boomalopeCard.description>ATK : 1200 / DEF : 400
+    
+Special Capacity - Big Boom
+
+Basic Set RimCard #13</trinkets_boomalopeCard.description>
+  <!-- EN: Unstable Boomalope - Rare SHINY -->
+  <trinkets_boomalopeshinyCard.label>Unstable Boomalope - Rare SHINY</trinkets_boomalopeshinyCard.label>
+  <!-- EN: ATK : 1200 / DEF : 400\n    \nSpecial Capacity - Big Boom\n\nBasic Set RimCard #13 -->
+  <trinkets_boomalopeshinyCard.description>ATK : 1200 / DEF : 400
+    
+Special Capacity - Big Boom
+
+Basic Set RimCard #13</trinkets_boomalopeshinyCard.description>
+  <!-- EN: Reliable Camel - Common -->
+  <trinkets_camelCard.label>Reliable Camel - Common</trinkets_camelCard.label>
+  <!-- EN: ATK : 200 / DEF : 200\n    \nSpecial Capacity - Never Thirsty\n\nBasic Set RimCard #32 -->
+  <trinkets_camelCard.description>ATK : 200 / DEF : 200
+    
+Special Capacity - Never Thirsty
+
+Basic Set RimCard #32</trinkets_camelCard.description>
+  <!-- EN: Reliable Camel - Common SHINY -->
+  <trinkets_camelshinyCard.label>Reliable Camel - Common SHINY</trinkets_camelshinyCard.label>
+  <!-- EN: ATK : 200 / DEF : 200\n    \nSpecial Capacity - Never Thirsty\n\nBasic Set RimCard #32 -->
+  <trinkets_camelshinyCard.description>ATK : 200 / DEF : 200
+    
+Special Capacity - Never Thirsty
+
+Basic Set RimCard #32</trinkets_camelshinyCard.description>
+  <!-- EN: Calm Capybara - Common -->
+  <trinkets_capybaraCard.label>Calm Capybara - Common</trinkets_capybaraCard.label>
+  <!-- EN: ATK : 0 / DEF : 100\n    \nSpecial Capacity - Deep Relaxation\n\nBasic Set RimCard #34 -->
+  <trinkets_capybaraCard.description>ATK : 0 / DEF : 100
+    
+Special Capacity - Deep Relaxation
+
+Basic Set RimCard #34</trinkets_capybaraCard.description>
+  <!-- EN: Calm Capybara - Common SHINY -->
+  <trinkets_capybarashinyCard.label>Calm Capybara - Common SHINY</trinkets_capybarashinyCard.label>
+  <!-- EN: ATK : 0 / DEF : 100\n    \nSpecial Capacity - Deep Relaxation\n\nBasic Set RimCard #34 -->
+  <trinkets_capybarashinyCard.description>ATK : 0 / DEF : 100
+    
+Special Capacity - Deep Relaxation
+
+Basic Set RimCard #34</trinkets_capybarashinyCard.description>
+  <!-- EN: Gentle Caribou - Rare -->
+  <trinkets_caribouCard.label>Gentle Caribou - Rare</trinkets_caribouCard.label>
+  <!-- EN: ATK : 1400 / DEF : 1200\n    \nSpecial Capacity - Antler Strike\n\nBasic Set RimCard #10 -->
+  <trinkets_caribouCard.description>ATK : 1400 / DEF : 1200
+    
+Special Capacity - Antler Strike
+
+Basic Set RimCard #10</trinkets_caribouCard.description>
+  <!-- EN: Gentle Caribou - Rare SHINY -->
+  <trinkets_cariboushinyCard.label>Gentle Caribou - Rare SHINY</trinkets_cariboushinyCard.label>
+  <!-- EN: ATK : 1400 / DEF : 1200\n    \nSpecial Capacity - Antler Strike\n\nBasic Set RimCard #11 -->
+  <trinkets_cariboushinyCard.description>ATK : 1400 / DEF : 1200
+    
+Special Capacity - Antler Strike
+
+Basic Set RimCard #11</trinkets_cariboushinyCard.description>
+  <!-- EN: Colorful Cassowary - Rare -->
+  <trinkets_cassowaryCard.label>Colorful Cassowary - Rare</trinkets_cassowaryCard.label>
+  <!-- EN: ATK : 1300 / DEF : 500\n    \nSpecial Capacity - Mating Parade\n\nBasic Set RimCard #15 -->
+  <trinkets_cassowaryCard.description>ATK : 1300 / DEF : 500
+    
+Special Capacity - Mating Parade
+
+Basic Set RimCard #15</trinkets_cassowaryCard.description>
+  <!-- EN: Colorful Cassowary - Rare SHINY -->
+  <trinkets_cassowaryshinyCard.label>Colorful Cassowary - Rare SHINY</trinkets_cassowaryshinyCard.label>
+  <!-- EN: ATK : 1300 / DEF : 500\n    \nSpecial Capacity - Mating Parade\n\nBasic Set RimCard #15 -->
+  <trinkets_cassowaryshinyCard.description>ATK : 1300 / DEF : 500
+    
+Special Capacity - Mating Parade
+
+Basic Set RimCard #15</trinkets_cassowaryshinyCard.description>
+  <!-- EN: Psycho Cat - Rare -->
+  <trinkets_catCard.label>Psycho Cat - Rare</trinkets_catCard.label>
+  <!-- EN: ATK : 1300 / DEF : 1100\n    \nSpecial Capacity - Deadly Eye\n\nBasic Set RimCard #18 -->
+  <trinkets_catCard.description>ATK : 1300 / DEF : 1100
+    
+Special Capacity - Deadly Eye
+
+Basic Set RimCard #18</trinkets_catCard.description>
+  <!-- EN: Psycho Cat - Rare SHINY -->
+  <trinkets_catshinyCard.label>Psycho Cat - Rare SHINY</trinkets_catshinyCard.label>
+  <!-- EN: ATK : 1300 / DEF : 1100\n    \nSpecial Capacity - Deadly Eye\n\nBasic Set RimCard #18 -->
+  <trinkets_catshinyCard.description>ATK : 1300 / DEF : 1100
+    
+Special Capacity - Deadly Eye
+
+Basic Set RimCard #18</trinkets_catshinyCard.description>
+  <!-- EN: Sassy Chicken - Common -->
+  <trinkets_chickenCard.label>Sassy Chicken - Common</trinkets_chickenCard.label>
+  <!-- EN: ATK : 300 / DEF : 200\n    \nSpecial Capacity - Peck Frenzy\n\nBasic Set RimCard #25 -->
+  <trinkets_chickenCard.description>ATK : 300 / DEF : 200
+    
+Special Capacity - Peck Frenzy
+
+Basic Set RimCard #25</trinkets_chickenCard.description>
+  <!-- EN: Sassy Chicken - Common SHINY -->
+  <trinkets_chickenshinyCard.label>Sassy Chicken - Common SHINY</trinkets_chickenshinyCard.label>
+  <!-- EN: ATK : 300 / DEF : 200\n    \nSpecial Capacity - Peck Frenzy\n\nBasic Set RimCard #25 -->
+  <trinkets_chickenshinyCard.description>ATK : 300 / DEF : 200
+    
+Special Capacity - Peck Frenzy
+
+Basic Set RimCard #25</trinkets_chickenshinyCard.description>
+  <!-- EN: Inevitable Chinchilla - Common  -->
+  <trinkets_chinchillaCard.label>Inevitable Chinchilla - Common </trinkets_chinchillaCard.label>
+  <!-- EN: ATK : 200 / DEF : 100\n    \nSpecial Capacity - Armageddon\n\nBasic Set RimCard #30 -->
+  <trinkets_chinchillaCard.description>ATK : 200 / DEF : 100
+    
+Special Capacity - Armageddon
+
+Basic Set RimCard #30</trinkets_chinchillaCard.description>
+  <!-- EN: Inevitable Chinchilla - Common SHINY -->
+  <trinkets_chinchillashinyCard.label>Inevitable Chinchilla - Common SHINY</trinkets_chinchillashinyCard.label>
+  <!-- EN: ATK : 200 / DEF : 100\n    \nSpecial Capacity - Armageddon\n\nBasic Set RimCard #30 -->
+  <trinkets_chinchillashinyCard.description>ATK : 200 / DEF : 100
+    
+Special Capacity - Armageddon
+
+Basic Set RimCard #30</trinkets_chinchillashinyCard.description>
+  <!-- EN: Vicious Cobra - Epic -->
+  <trinkets_cobraCard.label>Vicious Cobra - Epic</trinkets_cobraCard.label>
+  <!-- EN: ATK : 1200 / DEF : 800\n    \nSpecial Capacity - Poisonous\n\nBasic Set RimCard #8 -->
+  <trinkets_cobraCard.description>ATK : 1200 / DEF : 800
+    
+Special Capacity - Poisonous
+
+Basic Set RimCard #8</trinkets_cobraCard.description>
+  <!-- EN: Vicious Cobra - Epic SHINY -->
+  <trinkets_cobrashinyCard.label>Vicious Cobra - Epic SHINY</trinkets_cobrashinyCard.label>
+  <!-- EN: ATK : 1200 / DEF : 800\n    \nSpecial Capacity - Poisonous\n\nBasic Set RimCard #8 -->
+  <trinkets_cobrashinyCard.description>ATK : 1200 / DEF : 800
+    
+Special Capacity - Poisonous
+
+Basic Set RimCard #8</trinkets_cobrashinyCard.description>
+  <!-- EN: Kind Cow - Common -->
+  <trinkets_cowCard.label>Kind Cow - Common</trinkets_cowCard.label>
+  <!-- EN: ATK : 200 / DEF : 400\n    \nSpecial Capacity - Milky Way\n\nBasic Set RimCard #35 -->
+  <trinkets_cowCard.description>ATK : 200 / DEF : 400
+    
+Special Capacity - Milky Way
+
+Basic Set RimCard #35</trinkets_cowCard.description>
+  <!-- EN: Kind Cow - Common SHINY -->
+  <trinkets_cowshinyCard.label>Kind Cow - Common SHINY</trinkets_cowshinyCard.label>
+  <!-- EN: ATK : 200 / DEF : 400\n    \nSpecial Capacity - Milky Way\n\nBasic Set RimCard #35 -->
+  <trinkets_cowshinyCard.description>ATK : 200 / DEF : 400
+    
+Special Capacity - Milky Way
+
+Basic Set RimCard #35</trinkets_cowshinyCard.description>
+  <!-- EN: Magnificent Deer - Common -->
+  <trinkets_deerCard.label>Magnificent Deer - Common</trinkets_deerCard.label>
+  <!-- EN: ATK : 500 / DEF : 400\n    \nSpecial Capacity - Beauty Pageant\n\nBasic Set RimCard #36 -->
+  <trinkets_deerCard.description>ATK : 500 / DEF : 400
+    
+Special Capacity - Beauty Pageant
+
+Basic Set RimCard #36</trinkets_deerCard.description>
+  <!-- EN: Magnificent Deer - Common SHINY -->
+  <trinkets_deershinyCard.label>Magnificent Deer - Common SHINY</trinkets_deershinyCard.label>
+  <!-- EN: ATK : 500 / DEF : 400\n    \nSpecial Capacity - Beauty Pageant\n\nBasic Set RimCard #36 -->
+  <trinkets_deershinyCard.description>ATK : 500 / DEF : 400
+    
+Special Capacity - Beauty Pageant
+
+Basic Set RimCard #36</trinkets_deershinyCard.description>
+  <!-- EN: Stupid Donkey - Common -->
+  <trinkets_donkeyCard.label>Stupid Donkey - Common</trinkets_donkeyCard.label>
+  <!-- EN: ATK : 800 / DEF : 600\n    \nSpecial Capacity - Panic Attack\n\nBasic Set RimCard #23 -->
+  <trinkets_donkeyCard.description>ATK : 800 / DEF : 600
+    
+Special Capacity - Panic Attack
+
+Basic Set RimCard #23</trinkets_donkeyCard.description>
+  <!-- EN: Stupid Donkey - Common SHINY -->
+  <trinkets_donkeyshinyCard.label>Stupid Donkey - Common SHINY</trinkets_donkeyshinyCard.label>
+  <!-- EN: ATK : 800 / DEF : 600\n    \nSpecial Capacity - Panic Attack\n\nBasic Set RimCard #23 -->
+  <trinkets_donkeyshinyCard.description>ATK : 800 / DEF : 600
+    
+Special Capacity - Panic Attack
+
+Basic Set RimCard #23</trinkets_donkeyshinyCard.description>
+  <!-- EN: Massive Elephant - Epic -->
+  <trinkets_elephantCard.label>Massive Elephant - Epic</trinkets_elephantCard.label>
+  <!-- EN: ATK : 1700 / DEF : 2300\n    \nSpecial Capacity - Defensive Trunk\n\nBasic Set RimCard #9 -->
+  <trinkets_elephantCard.description>ATK : 1700 / DEF : 2300
+    
+Special Capacity - Defensive Trunk
+
+Basic Set RimCard #9</trinkets_elephantCard.description>
+  <!-- EN: Massive Elephant - Epic SHINY -->
+  <trinkets_elephantshinyCard.label>Massive Elephant - Epic SHINY</trinkets_elephantshinyCard.label>
+  <!-- EN: ATK : 1700 / DEF : 2300\n    \nSpecial Capacity - Defensive Trunk\n\nBasic Set RimCard #9 -->
+  <trinkets_elephantshinyCard.description>ATK : 1700 / DEF : 2300
+    
+Special Capacity - Defensive Trunk
+
+Basic Set RimCard #9</trinkets_elephantshinyCard.description>
+  <!-- EN: Random Elk - Common -->
+  <trinkets_elkCard.label>Random Elk - Common</trinkets_elkCard.label>
+  <!-- EN: ATK : 100 / DEF : 100\n    \nSpecial Capacity - Randy's Fate\n\nBasic Set RimCard #37 -->
+  <trinkets_elkCard.description>ATK : 100 / DEF : 100
+    
+Special Capacity - Randy's Fate
+
+Basic Set RimCard #37</trinkets_elkCard.description>
+  <!-- EN: Random Elk - Common SHINY -->
+  <trinkets_elkshinyCard.label>Random Elk - Common SHINY</trinkets_elkshinyCard.label>
+  <!-- EN: ATK : 100 / DEF : 100\n    \nSpecial Capacity - Randy's Fate\n\nBasic Set RimCard #37 -->
+  <trinkets_elkshinyCard.description>ATK : 100 / DEF : 100
+    
+Special Capacity - Randy's Fate
+
+Basic Set RimCard #37</trinkets_elkshinyCard.description>
+  <!-- EN: Emo Emu - Common -->
+  <trinkets_emuCard.label>Emo Emu - Common</trinkets_emuCard.label>
+  <!-- EN: ATK : 600 / DEF : 100\n    \nSpecial Capacity - Bad Trip\n\nBasic Set RimCard #38 -->
+  <trinkets_emuCard.description>ATK : 600 / DEF : 100
+    
+Special Capacity - Bad Trip
+
+Basic Set RimCard #38</trinkets_emuCard.description>
+  <!-- EN: Emo Emu - Common SHINY -->
+  <trinkets_emushinyCard.label>Emo Emu - Common SHINY</trinkets_emushinyCard.label>
+  <!-- EN: ATK : 600 / DEF : 100\n    \nSpecial Capacity - Bad Trip\n\nBasic Set RimCard #38 -->
+  <trinkets_emushinyCard.description>ATK : 600 / DEF : 100
+    
+Special Capacity - Bad Trip
+
+Basic Set RimCard #38</trinkets_emushinyCard.description>
+  <!-- EN: Silent Fennec Fox - Common -->
+  <trinkets_fennecCard.label>Silent Fennec Fox - Common</trinkets_fennecCard.label>
+  <!-- EN: ATK : 300 / DEF : 300\n    \nSpecial Capacity - Sneak Attack\n\nBasic Set RimCard #39 -->
+  <trinkets_fennecCard.description>ATK : 300 / DEF : 300
+    
+Special Capacity - Sneak Attack
+
+Basic Set RimCard #39</trinkets_fennecCard.description>
+  <!-- EN: Silent Fennec Fox - Common SHINY -->
+  <trinkets_fennecshinyCard.label>Silent Fennec Fox - Common SHINY</trinkets_fennecshinyCard.label>
+  <!-- EN: ATK : 300 / DEF : 300\n    \nSpecial Capacity - Sneak Attack\n\nBasic Set RimCard #39 -->
+  <trinkets_fennecshinyCard.description>ATK : 300 / DEF : 300
+    
+Special Capacity - Sneak Attack
+
+Basic Set RimCard #39</trinkets_fennecshinyCard.description>
+  <!-- EN: Smart Fox - Common -->
+  <trinkets_foxCard.label>Smart Fox - Common</trinkets_foxCard.label>
+  <!-- EN: ATK : 800 / DEF : 400\n    \nSpecial Capacity - Advanced Trickery\n\nBasic Set RimCard #28 -->
+  <trinkets_foxCard.description>ATK : 800 / DEF : 400
+    
+Special Capacity - Advanced Trickery
+
+Basic Set RimCard #28</trinkets_foxCard.description>
+  <!-- EN: Smart Fox - Common SHINY -->
+  <trinkets_foxshinyCard.label>Smart Fox - Common SHINY</trinkets_foxshinyCard.label>
+  <!-- EN: ATK : 800 / DEF : 400\n    \nSpecial Capacity - Advanced Trickery\n\nBasic Set RimCard #28 -->
+  <trinkets_foxshinyCard.description>ATK : 800 / DEF : 400
+    
+Special Capacity - Advanced Trickery
+
+Basic Set RimCard #28</trinkets_foxshinyCard.description>
+  <!-- EN: Lusty Gazelle - Common -->
+  <trinkets_gazelleCard.label>Lusty Gazelle - Common</trinkets_gazelleCard.label>
+  <!-- EN: ATK : 100 / DEF : 200\n    \nSpecial Capacity - Sexy Eyes\n\nBasic Set RimCard #40 -->
+  <trinkets_gazelleCard.description>ATK : 100 / DEF : 200
+    
+Special Capacity - Sexy Eyes
+
+Basic Set RimCard #40</trinkets_gazelleCard.description>
+  <!-- EN: Lusty Gazelle - Common SHINY -->
+  <trinkets_gazelleshinyCard.label>Lusty Gazelle - Common SHINY</trinkets_gazelleshinyCard.label>
+  <!-- EN: ATK : 100 / DEF : 200\n    \nSpecial Capacity - Sexy Eyes\n\nBasic Set RimCard #40 -->
+  <trinkets_gazelleshinyCard.description>ATK : 100 / DEF : 200
+    
+Special Capacity - Sexy Eyes
+
+Basic Set RimCard #40</trinkets_gazelleshinyCard.description>
+  <!-- EN: Muscular Grizzly - Rare -->
+  <trinkets_grizzlyCard.label>Muscular Grizzly - Rare</trinkets_grizzlyCard.label>
+  <!-- EN: ATK : 1500 / DEF : 1500\n    \nSpecial Capacity - Heavy Paw\n\nBasic Set RimCard #16 -->
+  <trinkets_grizzlyCard.description>ATK : 1500 / DEF : 1500
+    
+Special Capacity - Heavy Paw
+
+Basic Set RimCard #16</trinkets_grizzlyCard.description>
+  <!-- EN: Muscular Grizzly - Rare SHINY -->
+  <trinkets_grizzlyshinyCard.label>Muscular Grizzly - Rare SHINY</trinkets_grizzlyshinyCard.label>
+  <!-- EN: ATK : 1500 / DEF : 1500\n    \nSpecial Capacity - Heavy Paw\n\nBasic Set RimCard #16 -->
+  <trinkets_grizzlyshinyCard.description>ATK : 1500 / DEF : 1500
+    
+Special Capacity - Heavy Paw
+
+Basic Set RimCard #16</trinkets_grizzlyshinyCard.description>
+  <!-- EN: Energetic Hare - Common -->
+  <trinkets_hareCard.label>Energetic Hare - Common</trinkets_hareCard.label>
+  <!-- EN: ATK : 700 / DEF : 100\n    \nSpecial Capacity - Multiple Strikes\n\nBasic Set RimCard #41 -->
+  <trinkets_hareCard.description>ATK : 700 / DEF : 100
+    
+Special Capacity - Multiple Strikes
+
+Basic Set RimCard #41</trinkets_hareCard.description>
+  <!-- EN: Energetic Hare - Common SHINY -->
+  <trinkets_hareshinyCard.label>Energetic Hare - Common SHINY</trinkets_hareshinyCard.label>
+  <!-- EN: ATK : 700 / DEF : 100\n    \nSpecial Capacity - Multiple Strikes\n\nBasic Set RimCard #41 -->
+  <trinkets_hareshinyCard.description>ATK : 700 / DEF : 100
+    
+Special Capacity - Multiple Strikes
+
+Basic Set RimCard #41</trinkets_hareshinyCard.description>
+  <!-- EN: Friendly Horse - Common -->
+  <trinkets_horseCard.label>Friendly Horse - Common</trinkets_horseCard.label>
+  <!-- EN: ATK : 900 / DEF : 900\n    \nSpecial Capacity - Man's Best Friend\n\nBasic Set RimCard #24 -->
+  <trinkets_horseCard.description>ATK : 900 / DEF : 900
+    
+Special Capacity - Man's Best Friend
+
+Basic Set RimCard #24</trinkets_horseCard.description>
+  <!-- EN: Friendly Horse - Common SHINY -->
+  <trinkets_horseshinyCard.label>Friendly Horse - Common SHINY</trinkets_horseshinyCard.label>
+  <!-- EN: ATK : 900 / DEF : 900\n    \nSpecial Capacity - Man's Best Friend\n\nBasic Set RimCard #24 -->
+  <trinkets_horseshinyCard.description>ATK : 900 / DEF : 900
+    
+Special Capacity - Man's Best Friend
+
+Basic Set RimCard #24</trinkets_horseshinyCard.description>
+  <!-- EN: Happy Human - Common -->
+  <trinkets_humanCard.label>Happy Human - Common</trinkets_humanCard.label>
+  <!-- EN: ATK : 500 / DEF : 500\n    \nSpecial Capacity - Human Emotion\n\nBasic Set RimCard #27 -->
+  <trinkets_humanCard.description>ATK : 500 / DEF : 500
+    
+Special Capacity - Human Emotion
+
+Basic Set RimCard #27</trinkets_humanCard.description>
+  <!-- EN: Happy Human - Common SHINY -->
+  <trinkets_humanshinyCard.label>Happy Human - Common SHINY</trinkets_humanshinyCard.label>
+  <!-- EN: ATK : 500 / DEF : 500\n    \nSpecial Capacity - Human Emotion\n\nBasic Set RimCard #27 -->
+  <trinkets_humanshinyCard.description>ATK : 500 / DEF : 500
+    
+Special Capacity - Human Emotion
+
+Basic Set RimCard #27</trinkets_humanshinyCard.description>
+  <!-- EN: Elegant Husky - Common -->
+  <trinkets_huskyCard.label>Elegant Husky - Common</trinkets_huskyCard.label>
+  <!-- EN: ATK : 500 / DEF : 500\n    \nSpecial Capacity - Proper Stance\n\nBasic Set RimCard #42 -->
+  <trinkets_huskyCard.description>ATK : 500 / DEF : 500
+    
+Special Capacity - Proper Stance
+
+Basic Set RimCard #42</trinkets_huskyCard.description>
+  <!-- EN: Elegant Husky - Common SHINY -->
+  <trinkets_huskyshinyCard.label>Elegant Husky - Common SHINY</trinkets_huskyshinyCard.label>
+  <!-- EN: ATK : 500 / DEF : 500\n    \nSpecial Capacity - Proper Stance\n\nBasic Set RimCard #42 -->
+  <trinkets_huskyshinyCard.description>ATK : 500 / DEF : 500
+    
+Special Capacity - Proper Stance
+
+Basic Set RimCard #42</trinkets_huskyshinyCard.description>
+  <!-- EN: Aggressive Ibex - Rare -->
+  <trinkets_ibexCard.label>Aggressive Ibex - Rare</trinkets_ibexCard.label>
+  <!-- EN: ATK : 1600 / DEF : 1000\n    \nSpecial Capacity - Horne Strike\n\nBasic Set RimCard #17 -->
+  <trinkets_ibexCard.description>ATK : 1600 / DEF : 1000
+    
+Special Capacity - Horne Strike
+
+Basic Set RimCard #17</trinkets_ibexCard.description>
+  <!-- EN: Aggressive Ibex - Rare SHINY -->
+  <trinkets_ibexshinyCard.label>Aggressive Ibex - Rare SHINY</trinkets_ibexshinyCard.label>
+  <!-- EN: ATK : 1600 / DEF : 1000\n    \nSpecial Capacity - Horne Strike\n\nBasic Set RimCard #17 -->
+  <trinkets_ibexshinyCard.description>ATK : 1600 / DEF : 1000
+    
+Special Capacity - Horne Strike
+
+Basic Set RimCard #17</trinkets_ibexshinyCard.description>
+  <!-- EN: Independent Iguana - Common -->
+  <trinkets_iguanaCard.label>Independent Iguana - Common</trinkets_iguanaCard.label>
+  <!-- EN: ATK : 300 / DEF : 700\n    \nSpecial Capacity - Lizard Skin\n\nBasic Set RimCard #29 -->
+  <trinkets_iguanaCard.description>ATK : 300 / DEF : 700
+    
+Special Capacity - Lizard Skin
+
+Basic Set RimCard #29</trinkets_iguanaCard.description>
+  <!-- EN: Independent Iguana - Common SHINY -->
+  <trinkets_iguanashinyCard.label>Independent Iguana - Common SHINY</trinkets_iguanashinyCard.label>
+  <!-- EN: ATK : 300 / DEF : 700\n    \nSpecial Capacity - Lizard Skin\n\nBasic Set RimCard #29 -->
+  <trinkets_iguanashinyCard.description>ATK : 300 / DEF : 700
+    
+Special Capacity - Lizard Skin
+
+Basic Set RimCard #29</trinkets_iguanashinyCard.description>
+  <!-- EN: Helpful Labrador - Common -->
+  <trinkets_labradorCard.label>Helpful Labrador - Common</trinkets_labradorCard.label>
+  <!-- EN: ATK : 200 / DEF : 400\n    \nSpecial Capacity - Helping Paw\n\nBasic Set RimCard #43 -->
+  <trinkets_labradorCard.description>ATK : 200 / DEF : 400
+    
+Special Capacity - Helping Paw
+
+Basic Set RimCard #43</trinkets_labradorCard.description>
+  <!-- EN: Helpful Labrador - Common SHINY -->
+  <trinkets_labradorshinyCard.label>Helpful Labrador - Common SHINY</trinkets_labradorshinyCard.label>
+  <!-- EN: ATK : 200 / DEF : 400\n    \nSpecial Capacity - Helping Paw\n\nBasic Set RimCard #43 -->
+  <trinkets_labradorshinyCard.description>ATK : 200 / DEF : 400
+    
+Special Capacity - Helping Paw
+
+Basic Set RimCard #43</trinkets_labradorshinyCard.description>
+  <!-- EN: Clever Lynx - Epic -->
+  <trinkets_lynxCard.label>Clever Lynx - Epic</trinkets_lynxCard.label>
+  <!-- EN: ATK : 2200 / DEF : 1800\n    \nSpecial Capacity - Advanced Tactics\n\nBasic Set RimCard #5 -->
+  <trinkets_lynxCard.description>ATK : 2200 / DEF : 1800
+    
+Special Capacity - Advanced Tactics
+
+Basic Set RimCard #5</trinkets_lynxCard.description>
+  <!-- EN: Clever Lynx - Epic SHINY -->
+  <trinkets_lynxshinyCard.label>Clever Lynx - Epic SHINY</trinkets_lynxshinyCard.label>
+  <!-- EN: ATK : 2200 / DEF : 1800\n    \nSpecial Capacity - Advanced Tactics\n\nBasic Set RimCard #5 -->
+  <trinkets_lynxshinyCard.description>ATK : 2200 / DEF : 1800
+    
+Special Capacity - Advanced Tactics
+
+Basic Set RimCard #5</trinkets_lynxshinyCard.description>
+  <!-- EN: Fearless Megasloth - Legendary -->
+  <trinkets_megaslothCard.label>Fearless Megasloth - Legendary</trinkets_megaslothCard.label>
+  <!-- EN: ATK : 2900 / DEF : 2200\n    \nSpecial Capacity - Devastation\n\nBasic Set RimCard #2 -->
+  <trinkets_megaslothCard.description>ATK : 2900 / DEF : 2200
+    
+Special Capacity - Devastation
+
+Basic Set RimCard #2</trinkets_megaslothCard.description>
+  <!-- EN: Fearless Megasloth - Legendary SHINY -->
+  <trinkets_megaslothshinyCard.label>Fearless Megasloth - Legendary SHINY</trinkets_megaslothshinyCard.label>
+  <!-- EN: ATK : 2900 / DEF : 2200\n    \nSpecial Capacity - Devastation\n\nBasic Set RimCard #2 -->
+  <trinkets_megaslothshinyCard.description>ATK : 2900 / DEF : 2200
+    
+Special Capacity - Devastation
+
+Basic Set RimCard #2</trinkets_megaslothshinyCard.description>
+  <!-- EN: Cruel Megaspider - Legendary -->
+  <trinkets_megaspiderCard.label>Cruel Megaspider - Legendary</trinkets_megaspiderCard.label>
+  <!-- EN: ATK : 2600 / DEF : 1700\n    \nSpecial Capacity - Poisonous\n\nBasic Set RimCard #3 -->
+  <trinkets_megaspiderCard.description>ATK : 2600 / DEF : 1700
+    
+Special Capacity - Poisonous
+
+Basic Set RimCard #3</trinkets_megaspiderCard.description>
+  <!-- EN: Cruel Megaspider - Legendary SHINY -->
+  <trinkets_megaspidershinyCard.label>Cruel Megaspider - Legendary SHINY</trinkets_megaspidershinyCard.label>
+  <!-- EN: ATK : 2600 / DEF : 1700\n    \nSpecial Capacity - Poisonous\n\nBasic Set RimCard #3 -->
+  <trinkets_megaspidershinyCard.description>ATK : 2600 / DEF : 1700
+    
+Special Capacity - Poisonous
+
+Basic Set RimCard #3</trinkets_megaspidershinyCard.description>
+  <!-- EN: Lucky Monkey - Rare -->
+  <trinkets_monkeyCard.label>Lucky Monkey - Rare</trinkets_monkeyCard.label>
+  <!-- EN: ATK : 1300 / DEF : 1200\n    \nSpecial Capacity - Increased Agility\n\nBasic Set RimCard #20 -->
+  <trinkets_monkeyCard.description>ATK : 1300 / DEF : 1200
+    
+Special Capacity - Increased Agility
+
+Basic Set RimCard #20</trinkets_monkeyCard.description>
+  <!-- EN: Lucky Monkey - Rare SHINY -->
+  <trinkets_monkeyshinyCard.label>Lucky Monkey - Rare SHINY</trinkets_monkeyshinyCard.label>
+  <!-- EN: ATK : 1300 / DEF : 1200\n    \nSpecial Capacity - Increased Agility\n\nBasic Set RimCard #20 -->
+  <trinkets_monkeyshinyCard.description>ATK : 1300 / DEF : 1200
+    
+Special Capacity - Increased Agility
+
+Basic Set RimCard #20</trinkets_monkeyshinyCard.description>
+  <!-- EN: Steady Muffalo - Epic -->
+  <trinkets_muffaloCard.label>Steady Muffalo - Epic</trinkets_muffaloCard.label>
+  <!-- EN: ATK : 1200 / DEF : 2700\n    \nSpecial Capacity - Thick Skin\n\nBasic Set RimCard #4 -->
+  <trinkets_muffaloCard.description>ATK : 1200 / DEF : 2700
+    
+Special Capacity - Thick Skin
+
+Basic Set RimCard #4</trinkets_muffaloCard.description>
+  <!-- EN: Steady Muffalo - Epic SHINY -->
+  <trinkets_muffaloshinyCard.label>Steady Muffalo - Epic SHINY</trinkets_muffaloshinyCard.label>
+  <!-- EN: ATK : 1200 / DEF : 2700\n    \nSpecial Capacity - Thick Skin\n\nBasic Set RimCard #4 -->
+  <trinkets_muffaloshinyCard.description>ATK : 1200 / DEF : 2700
+    
+Special Capacity - Thick Skin
+
+Basic Set RimCard #4</trinkets_muffaloshinyCard.description>
+  <!-- EN: Funny Ostrich - Rare -->
+  <trinkets_ostrichCard.label>Funny Ostrich - Rare</trinkets_ostrichCard.label>
+  <!-- EN: ATK : 1000 / DEF : 1500\n    \nSpecial Capacity - Super Joke\n\nBasic Set RimCard #14 -->
+  <trinkets_ostrichCard.description>ATK : 1000 / DEF : 1500
+    
+Special Capacity - Super Joke
+
+Basic Set RimCard #14</trinkets_ostrichCard.description>
+  <!-- EN: Funny Ostrich - Rare SHINY -->
+  <trinkets_ostrichshinyCard.label>Funny Ostrich - Rare SHINY</trinkets_ostrichshinyCard.label>
+  <!-- EN: ATK : 1000 / DEF : 1500\n    \nSpecial Capacity - Super Joke\n\nBasic Set RimCard #14 -->
+  <trinkets_ostrichshinyCard.description>ATK : 1000 / DEF : 1500
+    
+Special Capacity - Super Joke
+
+Basic Set RimCard #14</trinkets_ostrichshinyCard.description>
+  <!-- EN: Sleepy Musk Ox - Rare -->
+  <trinkets_oxCard.label>Sleepy Musk Ox - Rare</trinkets_oxCard.label>
+  <!-- EN: ATK : 900 / DEF : 1900\n    \nSpecial Capacity - Short Nap\n\nBasic Set RimCard #11 -->
+  <trinkets_oxCard.description>ATK : 900 / DEF : 1900
+    
+Special Capacity - Short Nap
+
+Basic Set RimCard #11</trinkets_oxCard.description>
+  <!-- EN: Sleepy Musk Ox - Rare SHINY -->
+  <trinkets_oxshinyCard.label>Sleepy Musk Ox - Rare SHINY</trinkets_oxshinyCard.label>
+  <!-- EN: ATK : 900 / DEF : 1900\n    \nSpecial Capacity - Short Nap\n\nBasic Set RimCard #11 -->
+  <trinkets_oxshinyCard.description>ATK : 900 / DEF : 1900
+    
+Special Capacity - Short Nap
+
+Basic Set RimCard #11</trinkets_oxshinyCard.description>
+  <!-- EN: Swift Panther - Rare -->
+  <trinkets_pantherCard.label>Swift Panther - Rare</trinkets_pantherCard.label>
+  <!-- EN: ATK : 1600 / DEF : 1000\n    \nSpecial Capacity - Quick Attack\n\nBasic Set RimCard #12 -->
+  <trinkets_pantherCard.description>ATK : 1600 / DEF : 1000
+    
+Special Capacity - Quick Attack
+
+Basic Set RimCard #12</trinkets_pantherCard.description>
+  <!-- EN: Swift Panther - Rare SHINY -->
+  <trinkets_panthershinyCard.label>Swift Panther - Rare SHINY</trinkets_panthershinyCard.label>
+  <!-- EN: ATK : 1600 / DEF : 1000\n    \nSpecial Capacity - Quick Attack\n\nBasic Set RimCard #12 -->
+  <trinkets_panthershinyCard.description>ATK : 1600 / DEF : 1000
+    
+Special Capacity - Quick Attack
+
+Basic Set RimCard #12</trinkets_panthershinyCard.description>
+  <!-- EN: Gluttonous Pig - Common -->
+  <trinkets_pigCard.label>Gluttonous Pig - Common</trinkets_pigCard.label>
+  <!-- EN: ATK : 300 / DEF : 500\n    \nSpecial Capacity - Oink Oink\n\nBasic Set RimCard #31 -->
+  <trinkets_pigCard.description>ATK : 300 / DEF : 500
+    
+Special Capacity - Oink Oink
+
+Basic Set RimCard #31</trinkets_pigCard.description>
+  <!-- EN: Gluttonous Pig - Common SHINY -->
+  <trinkets_pigshinyCard.label>Gluttonous Pig - Common SHINY</trinkets_pigshinyCard.label>
+  <!-- EN: ATK : 300 / DEF : 500\n    \nSpecial Capacity - Oink Oink\n\nBasic Set RimCard #31 -->
+  <trinkets_pigshinyCard.description>ATK : 300 / DEF : 500
+    
+Special Capacity - Oink Oink
+
+Basic Set RimCard #31</trinkets_pigshinyCard.description>
+  <!-- EN: Bipolar Polar Bear - Rare -->
+  <trinkets_polarCard.label>Bipolar Polar Bear - Rare</trinkets_polarCard.label>
+  <!-- EN: ATK : 1100 / DEF : 1500\n    \nSpecial Capacity - Shiny Fur\n\nBasic Set RimCard #21 -->
+  <trinkets_polarCard.description>ATK : 1100 / DEF : 1500
+    
+Special Capacity - Shiny Fur
+
+Basic Set RimCard #21</trinkets_polarCard.description>
+  <!-- EN: Bipolar Polar Bear - Rare SHINY -->
+  <trinkets_polarshinyCard.label>Bipolar Polar Bear - Rare SHINY</trinkets_polarshinyCard.label>
+  <!-- EN: ATK : 1100 / DEF : 1500\n    \nSpecial Capacity - Shiny Fur\n\nBasic Set RimCard #21 -->
+  <trinkets_polarshinyCard.description>ATK : 1100 / DEF : 1500
+    
+Special Capacity - Shiny Fur
+
+Basic Set RimCard #21</trinkets_polarshinyCard.description>
+  <!-- EN: Noble Rhino - Rare -->
+  <trinkets_rhinocerosCard.label>Noble Rhino - Rare</trinkets_rhinocerosCard.label>
+  <!-- EN: ATK : 1700 / DEF : 1700\n    \nSpecial Capacity - Heavy Armor\n\nBasic Set RimCard #19 -->
+  <trinkets_rhinocerosCard.description>ATK : 1700 / DEF : 1700
+    
+Special Capacity - Heavy Armor
+
+Basic Set RimCard #19</trinkets_rhinocerosCard.description>
+  <!-- EN: Noble Rhino - Rare SHINY -->
+  <trinkets_rhinocerosshinyCard.label>Noble Rhino - Rare SHINY</trinkets_rhinocerosshinyCard.label>
+  <!-- EN: ATK : 1700 / DEF : 1700\n    \nSpecial Capacity - Heavy Armor\n\nBasic Set RimCard #19 -->
+  <trinkets_rhinocerosshinyCard.description>ATK : 1700 / DEF : 1700
+    
+Special Capacity - Heavy Armor
+
+Basic Set RimCard #19</trinkets_rhinocerosshinyCard.description>
+  <!-- EN: Noisy Squirrel - Common -->
+  <trinkets_squirrelCard.label>Noisy Squirrel - Common</trinkets_squirrelCard.label>
+  <!-- EN: ATK : 800 / DEF : 200\n    \nSpecial Capacity - Paranoïd Scream\n\nBasic Set RimCard #45 -->
+  <trinkets_squirrelCard.description>ATK : 800 / DEF : 200
+    
+Special Capacity - Paranoïd Scream
+
+Basic Set RimCard #45</trinkets_squirrelCard.description>
+  <!-- EN: Noisy Squirrel - Common SHINY -->
+  <trinkets_squirrelshinyCard.label>Noisy Squirrel - Common SHINY</trinkets_squirrelshinyCard.label>
+  <!-- EN: ATK : 800 / DEF : 200\n    \nSpecial Capacity - Paranoïd Scream\n\nBasic Set RimCard #45 -->
+  <trinkets_squirrelshinyCard.description>ATK : 800 / DEF : 200
+    
+Special Capacity - Paranoïd Scream
+
+Basic Set RimCard #45</trinkets_squirrelshinyCard.description>
+  <!-- EN: Evil Yorkshire Terrier - Common -->
+  <trinkets_terrierCard.label>Evil Yorkshire Terrier - Common</trinkets_terrierCard.label>
+  <!-- EN: ATK : 400 / DEF : 100\n    \nSpecial Capacity - Wave of Darkness\n\nBasic Set RimCard #26 -->
+  <trinkets_terrierCard.description>ATK : 400 / DEF : 100
+    
+Special Capacity - Wave of Darkness
+
+Basic Set RimCard #26</trinkets_terrierCard.description>
+  <!-- EN: Evil Yorkshire Terrier - Common SHINY -->
+  <trinkets_terriershinyCard.label>Evil Yorkshire Terrier - Common SHINY</trinkets_terriershinyCard.label>
+  <!-- EN: ATK : 400 / DEF : 100\n    \nSpecial Capacity - Wave of Darkness\n\nBasic Set RimCard #26 -->
+  <trinkets_terriershinyCard.description>ATK : 400 / DEF : 100
+    
+Special Capacity - Wave of Darkness
+
+Basic Set RimCard #26</trinkets_terriershinyCard.description>
+  <!-- EN: Mighty Thrumbo - Legendary -->
+  <trinkets_thrumboCard.label>Mighty Thrumbo - Legendary</trinkets_thrumboCard.label>
+  <!-- EN: ATK : 3000 / DEF : 2500\n    \nSpecial Capacity - Mighty Horn\n\nBasic Set RimCard #1 -->
+  <trinkets_thrumboCard.description>ATK : 3000 / DEF : 2500
+    
+Special Capacity - Mighty Horn
+
+Basic Set RimCard #1</trinkets_thrumboCard.description>
+  <!-- EN: Mighty Thrumbo - Legendary SHINY -->
+  <trinkets_thrumboshinyCard.label>Mighty Thrumbo - Legendary SHINY</trinkets_thrumboshinyCard.label>
+  <!-- EN: ATK : 3000 / DEF : 2500\n    \nSpecial Capacity - Mighty Horn\n\nBasic Set RimCard #1 -->
+  <trinkets_thrumboshinyCard.description>ATK : 3000 / DEF : 2500
+    
+Special Capacity - Mighty Horn
+
+Basic Set RimCard #1</trinkets_thrumboshinyCard.description>
+  <!-- EN: Fat Turkey - Common -->
+  <trinkets_turkeyCard.label>Fat Turkey - Common</trinkets_turkeyCard.label>
+  <!-- EN: ATK : 400 / DEF : 800\n    \nSpecial Capacity - Eating Contest\n\nBasic Set RimCard #44 -->
+  <trinkets_turkeyCard.description>ATK : 400 / DEF : 800
+    
+Special Capacity - Eating Contest
+
+Basic Set RimCard #44</trinkets_turkeyCard.description>
+  <!-- EN: Fat Turkey - Common SHINY -->
+  <trinkets_turkeyshinyCard.label>Fat Turkey - Common SHINY</trinkets_turkeyshinyCard.label>
+  <!-- EN: ATK : 400 / DEF : 800\n    \nSpecial Capacity - Eating Contest\n\nBasic Set RimCard #44 -->
+  <trinkets_turkeyshinyCard.description>ATK : 400 / DEF : 800
+    
+Special Capacity - Eating Contest
+
+Basic Set RimCard #44</trinkets_turkeyshinyCard.description>
+  <!-- EN: Feral Warg - Epic -->
+  <trinkets_wargCard.label>Feral Warg - Epic</trinkets_wargCard.label>
+  <!-- EN: ATK : 2300 / DEF : 900\n    \nSpecial Capacity - Predator Strike\n\nBasic Set RimCard #6 -->
+  <trinkets_wargCard.description>ATK : 2300 / DEF : 900
+    
+Special Capacity - Predator Strike
+
+Basic Set RimCard #6</trinkets_wargCard.description>
+  <!-- EN: Feral Warg - Epic SHINY -->
+  <trinkets_wargshinyCard.label>Feral Warg - Epic SHINY</trinkets_wargshinyCard.label>
+  <!-- EN: ATK : 2300 / DEF : 900\n    \nSpecial Capacity - Predator Strike\n\nBasic Set RimCard #6 -->
+  <trinkets_wargshinyCard.description>ATK : 2300 / DEF : 900
+    
+Special Capacity - Predator Strike
+
+Basic Set RimCard #6</trinkets_wargshinyCard.description>
+</LanguageData>

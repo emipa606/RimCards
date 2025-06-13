@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Craft Alpaca RimCard (common) -->
+  <CraftAlpaca.label>Craft Alpaca RimCard (common)</CraftAlpaca.label>
+  <!-- EN: Craft the Peaceful Alpaca RimCard. -->
+  <CraftAlpaca.description>Craft the Peaceful Alpaca RimCard.</CraftAlpaca.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftAlpaca.jobString>Craft RimCard.</CraftAlpaca.jobString>
+  <!-- EN: Craft Alphabeaver RimCard (common) -->
+  <CraftAlphabeaver.label>Craft Alphabeaver RimCard (common)</CraftAlphabeaver.label>
+  <!-- EN: Craft the Hungry Alphabeaver RimCard. -->
+  <CraftAlphabeaver.description>Craft the Hungry Alphabeaver RimCard.</CraftAlphabeaver.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftAlphabeaver.jobString>Craft RimCard.</CraftAlphabeaver.jobString>
+  <!-- EN: Craft Arctic Wolf RimCard (epic) -->
+  <CraftArcticwolf.label>Craft Arctic Wolf RimCard (epic)</CraftArcticwolf.label>
+  <!-- EN: Craft the Brave Arctic Wolf RimCard. -->
+  <CraftArcticwolf.description>Craft the Brave Arctic Wolf RimCard.</CraftArcticwolf.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftArcticwolf.jobString>Craft RimCard.</CraftArcticwolf.jobString>
+  <!-- EN: Craft Boomalope RimCard (rare) -->
+  <CraftBoomalope.label>Craft Boomalope RimCard (rare)</CraftBoomalope.label>
+  <!-- EN: Craft the Unstable Boomalope RimCard. -->
+  <CraftBoomalope.description>Craft the Unstable Boomalope RimCard.</CraftBoomalope.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftBoomalope.jobString>Craft RimCard.</CraftBoomalope.jobString>
+  <!-- EN: Craft Camel RimCard (common) -->
+  <CraftCamel.label>Craft Camel RimCard (common)</CraftCamel.label>
+  <!-- EN: Craft the Reliable Camel RimCard. -->
+  <CraftCamel.description>Craft the Reliable Camel RimCard.</CraftCamel.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftCamel.jobString>Craft RimCard.</CraftCamel.jobString>
+  <!-- EN: Craft Capybara RimCard (common) -->
+  <CraftCapybara.label>Craft Capybara RimCard (common)</CraftCapybara.label>
+  <!-- EN: Craft the Calm Capybara RimCard. -->
+  <CraftCapybara.description>Craft the Calm Capybara RimCard.</CraftCapybara.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftCapybara.jobString>Craft RimCard.</CraftCapybara.jobString>
+  <!-- EN: Craft Caribou RimCard (rare) -->
+  <CraftCaribou.label>Craft Caribou RimCard (rare)</CraftCaribou.label>
+  <!-- EN: Craft the Gentle Caribou RimCard. -->
+  <CraftCaribou.description>Craft the Gentle Caribou RimCard.</CraftCaribou.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftCaribou.jobString>Craft RimCard.</CraftCaribou.jobString>
+  <!-- EN: Craft Cassowary RimCard (rare) -->
+  <CraftCassowary.label>Craft Cassowary RimCard (rare)</CraftCassowary.label>
+  <!-- EN: Craft the Colorful Cassowary RimCard. -->
+  <CraftCassowary.description>Craft the Colorful Cassowary RimCard.</CraftCassowary.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftCassowary.jobString>Craft RimCard.</CraftCassowary.jobString>
+  <!-- EN: Craft Cat RimCard (rare) -->
+  <CraftCat.label>Craft Cat RimCard (rare)</CraftCat.label>
+  <!-- EN: Craft the Psycho Cat RimCard. -->
+  <CraftCat.description>Craft the Psycho Cat RimCard.</CraftCat.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftCat.jobString>Craft RimCard.</CraftCat.jobString>
+  <!-- EN: Craft Chicken RimCard (common) -->
+  <CraftChicken.label>Craft Chicken RimCard (common)</CraftChicken.label>
+  <!-- EN: Craft the Sassy Chicken RimCard. -->
+  <CraftChicken.description>Craft the Sassy Chicken RimCard.</CraftChicken.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftChicken.jobString>Craft RimCard.</CraftChicken.jobString>
+  <!-- EN: Craft Chinchilla RimCard (common) -->
+  <CraftChinchilla.label>Craft Chinchilla RimCard (common)</CraftChinchilla.label>
+  <!-- EN: Craft the Invevitable Chinchilla RimCard. -->
+  <CraftChinchilla.description>Craft the Invevitable Chinchilla RimCard.</CraftChinchilla.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftChinchilla.jobString>Craft RimCard.</CraftChinchilla.jobString>
+  <!-- EN: Craft Cobra RimCard (epic) -->
+  <CraftCobra.label>Craft Cobra RimCard (epic)</CraftCobra.label>
+  <!-- EN: Craft the Vicious Cobra RimCard. -->
+  <CraftCobra.description>Craft the Vicious Cobra RimCard.</CraftCobra.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftCobra.jobString>Craft RimCard.</CraftCobra.jobString>
+  <!-- EN: Craft Cow RimCard (common) -->
+  <CraftCow.label>Craft Cow RimCard (common)</CraftCow.label>
+  <!-- EN: Craft the Kind Cow RimCard. -->
+  <CraftCow.description>Craft the Kind Cow RimCard.</CraftCow.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftCow.jobString>Craft RimCard.</CraftCow.jobString>
+  <!-- EN: Craft Deer RimCard (common) -->
+  <CraftDeer.label>Craft Deer RimCard (common)</CraftDeer.label>
+  <!-- EN: Craft the Magnificent Deer RimCard. -->
+  <CraftDeer.description>Craft the Magnificent Deer RimCard.</CraftDeer.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftDeer.jobString>Craft RimCard.</CraftDeer.jobString>
+  <!-- EN: Craft Donkey RimCard (common) -->
+  <CraftDonkey.label>Craft Donkey RimCard (common)</CraftDonkey.label>
+  <!-- EN: Craft the Stupid Donkey RimCard. -->
+  <CraftDonkey.description>Craft the Stupid Donkey RimCard.</CraftDonkey.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftDonkey.jobString>Craft RimCard.</CraftDonkey.jobString>
+  <!-- EN: Craft Elephant RimCard (epic) -->
+  <CraftElephant.label>Craft Elephant RimCard (epic)</CraftElephant.label>
+  <!-- EN: Craft the Massive Elephant RimCard. -->
+  <CraftElephant.description>Craft the Massive Elephant RimCard.</CraftElephant.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftElephant.jobString>Craft RimCard.</CraftElephant.jobString>
+  <!-- EN: Craft Elk RimCard (common) -->
+  <CraftElk.label>Craft Elk RimCard (common)</CraftElk.label>
+  <!-- EN: Craft the Random Elk RimCard. -->
+  <CraftElk.description>Craft the Random Elk RimCard.</CraftElk.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftElk.jobString>Craft RimCard.</CraftElk.jobString>
+  <!-- EN: Craft Emu RimCard (common) -->
+  <CraftEmu.label>Craft Emu RimCard (common)</CraftEmu.label>
+  <!-- EN: Craft the Emo Emu RimCard. -->
+  <CraftEmu.description>Craft the Emo Emu RimCard.</CraftEmu.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftEmu.jobString>Craft RimCard.</CraftEmu.jobString>
+  <!-- EN: Craft Fennec Fox RimCard (common) -->
+  <CraftFennec.label>Craft Fennec Fox RimCard (common)</CraftFennec.label>
+  <!-- EN: Craft the Silent Fennec Fox RimCard. -->
+  <CraftFennec.description>Craft the Silent Fennec Fox RimCard.</CraftFennec.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftFennec.jobString>Craft RimCard.</CraftFennec.jobString>
+  <!-- EN: Craft Fox RimCard (common) -->
+  <CraftFox.label>Craft Fox RimCard (common)</CraftFox.label>
+  <!-- EN: Craft the Smart Fox RimCard. -->
+  <CraftFox.description>Craft the Smart Fox RimCard.</CraftFox.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftFox.jobString>Craft RimCard.</CraftFox.jobString>
+  <!-- EN: Craft Gazelle RimCard (common) -->
+  <CraftGazelle.label>Craft Gazelle RimCard (common)</CraftGazelle.label>
+  <!-- EN: Craft the Lusty Gazelle RimCard. -->
+  <CraftGazelle.description>Craft the Lusty Gazelle RimCard.</CraftGazelle.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftGazelle.jobString>Craft RimCard.</CraftGazelle.jobString>
+  <!-- EN: Craft Grizzly RimCard (rare) -->
+  <CraftGrizzly.label>Craft Grizzly RimCard (rare)</CraftGrizzly.label>
+  <!-- EN: Craft the Muscular Grizzly RimCard. -->
+  <CraftGrizzly.description>Craft the Muscular Grizzly RimCard.</CraftGrizzly.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftGrizzly.jobString>Craft RimCard.</CraftGrizzly.jobString>
+  <!-- EN: Craft Hare RimCard (common) -->
+  <CraftHare.label>Craft Hare RimCard (common)</CraftHare.label>
+  <!-- EN: Craft the Energetic Hare RimCard. -->
+  <CraftHare.description>Craft the Energetic Hare RimCard.</CraftHare.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftHare.jobString>Craft RimCard.</CraftHare.jobString>
+  <!-- EN: Craft Horse RimCard (common) -->
+  <CraftHorse.label>Craft Horse RimCard (common)</CraftHorse.label>
+  <!-- EN: Craft the Friendly Horse RimCard. -->
+  <CraftHorse.description>Craft the Friendly Horse RimCard.</CraftHorse.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftHorse.jobString>Craft RimCard.</CraftHorse.jobString>
+  <!-- EN: Craft Human RimCard (common) -->
+  <CraftHuman.label>Craft Human RimCard (common)</CraftHuman.label>
+  <!-- EN: Craft the Happy Human RimCard. -->
+  <CraftHuman.description>Craft the Happy Human RimCard.</CraftHuman.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftHuman.jobString>Craft RimCard.</CraftHuman.jobString>
+  <!-- EN: Craft Husky RimCard (common) -->
+  <CraftHusky.label>Craft Husky RimCard (common)</CraftHusky.label>
+  <!-- EN: Craft the Elegant Husky RimCard. -->
+  <CraftHusky.description>Craft the Elegant Husky RimCard.</CraftHusky.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftHusky.jobString>Craft RimCard.</CraftHusky.jobString>
+  <!-- EN: Craft Ibex RimCard (rare) -->
+  <CraftIbex.label>Craft Ibex RimCard (rare)</CraftIbex.label>
+  <!-- EN: Craft the Aggressive Ibex RimCard. -->
+  <CraftIbex.description>Craft the Aggressive Ibex RimCard.</CraftIbex.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftIbex.jobString>Craft RimCard.</CraftIbex.jobString>
+  <!-- EN: Craft Iguana RimCard (common) -->
+  <CraftIguana.label>Craft Iguana RimCard (common)</CraftIguana.label>
+  <!-- EN: Craft the Independent Iguana RimCard. -->
+  <CraftIguana.description>Craft the Independent Iguana RimCard.</CraftIguana.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftIguana.jobString>Craft RimCard.</CraftIguana.jobString>
+  <!-- EN: Craft Labrador RimCard (common) -->
+  <CraftLabrador.label>Craft Labrador RimCard (common)</CraftLabrador.label>
+  <!-- EN: Craft the Helpful Labrador RimCard. -->
+  <CraftLabrador.description>Craft the Helpful Labrador RimCard.</CraftLabrador.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftLabrador.jobString>Craft RimCard.</CraftLabrador.jobString>
+  <!-- EN: Craft Lynx RimCard (epic) -->
+  <CraftLynx.label>Craft Lynx RimCard (epic)</CraftLynx.label>
+  <!-- EN: Craft the Clever Lynx RimCard. -->
+  <CraftLynx.description>Craft the Clever Lynx RimCard.</CraftLynx.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftLynx.jobString>Craft RimCard.</CraftLynx.jobString>
+  <!-- EN: Craft Megasloth RimCard (legendary) -->
+  <CraftMegasloth.label>Craft Megasloth RimCard (legendary)</CraftMegasloth.label>
+  <!-- EN: Craft the Fearless Megasloth RimCard. -->
+  <CraftMegasloth.description>Craft the Fearless Megasloth RimCard.</CraftMegasloth.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftMegasloth.jobString>Craft RimCard.</CraftMegasloth.jobString>
+  <!-- EN: Craft Megaspider RimCard (legendary) -->
+  <CraftMegaspider.label>Craft Megaspider RimCard (legendary)</CraftMegaspider.label>
+  <!-- EN: Craft the Cruel Megaspider RimCard. -->
+  <CraftMegaspider.description>Craft the Cruel Megaspider RimCard.</CraftMegaspider.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftMegaspider.jobString>Craft RimCard.</CraftMegaspider.jobString>
+  <!-- EN: Craft Monkey RimCard (rare) -->
+  <CraftMonkey.label>Craft Monkey RimCard (rare)</CraftMonkey.label>
+  <!-- EN: Craft the Lucky Monkey RimCard. -->
+  <CraftMonkey.description>Craft the Lucky Monkey RimCard.</CraftMonkey.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftMonkey.jobString>Craft RimCard.</CraftMonkey.jobString>
+  <!-- EN: Craft Muffalo RimCard (epic) -->
+  <CraftMuffalo.label>Craft Muffalo RimCard (epic)</CraftMuffalo.label>
+  <!-- EN: Craft the Steady Muffalo RimCard. -->
+  <CraftMuffalo.description>Craft the Steady Muffalo RimCard.</CraftMuffalo.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftMuffalo.jobString>Craft RimCard.</CraftMuffalo.jobString>
+  <!-- EN: Craft Ostrich RimCard (rare) -->
+  <CraftOstrich.label>Craft Ostrich RimCard (rare)</CraftOstrich.label>
+  <!-- EN: Craft the Funny Ostrich RimCard. -->
+  <CraftOstrich.description>Craft the Funny Ostrich RimCard.</CraftOstrich.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftOstrich.jobString>Craft RimCard.</CraftOstrich.jobString>
+  <!-- EN: Craft Musk Ox RimCard (rare) -->
+  <CraftOx.label>Craft Musk Ox RimCard (rare)</CraftOx.label>
+  <!-- EN: Craft the Sleep Musk Ox RimCard. -->
+  <CraftOx.description>Craft the Sleep Musk Ox RimCard.</CraftOx.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftOx.jobString>Craft RimCard.</CraftOx.jobString>
+  <!-- EN: Craft Panther RimCard (rare) -->
+  <CraftPanther.label>Craft Panther RimCard (rare)</CraftPanther.label>
+  <!-- EN: Craft the Gentle Caribou RimCard. -->
+  <CraftPanther.description>Craft the Gentle Caribou RimCard.</CraftPanther.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftPanther.jobString>Craft RimCard.</CraftPanther.jobString>
+  <!-- EN: Craft Pig RimCard (common) -->
+  <CraftPig.label>Craft Pig RimCard (common)</CraftPig.label>
+  <!-- EN: Craft the Gluttonous Pig RimCard. -->
+  <CraftPig.description>Craft the Gluttonous Pig RimCard.</CraftPig.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftPig.jobString>Craft RimCard.</CraftPig.jobString>
+  <!-- EN: Craft Polar Bear RimCard (rare) -->
+  <CraftPolar.label>Craft Polar Bear RimCard (rare)</CraftPolar.label>
+  <!-- EN: Craft Bipolar Polar Bear RimCard. -->
+  <CraftPolar.description>Craft Bipolar Polar Bear RimCard.</CraftPolar.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftPolar.jobString>Craft RimCard.</CraftPolar.jobString>
+  <!-- EN: Craft Rhinoceros RimCard (rare) -->
+  <CraftRhinoceros.label>Craft Rhinoceros RimCard (rare)</CraftRhinoceros.label>
+  <!-- EN: Craft the Noble Rhinoceros RimCard. -->
+  <CraftRhinoceros.description>Craft the Noble Rhinoceros RimCard.</CraftRhinoceros.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftRhinoceros.jobString>Craft RimCard.</CraftRhinoceros.jobString>
+  <!-- EN: Craft RimCard Dust -->
+  <CraftRimDust.label>Craft RimCard Dust</CraftRimDust.label>
+  <!-- EN: Craft RimCard Dust. -->
+  <CraftRimDust.description>Craft RimCard Dust.</CraftRimDust.description>
+  <!-- EN: Craft RimCard Dust. -->
+  <CraftRimDust.jobString>Craft RimCard Dust.</CraftRimDust.jobString>
+  <!-- EN: Craft Squirrel RimCard (common) -->
+  <CraftSquirrel.label>Craft Squirrel RimCard (common)</CraftSquirrel.label>
+  <!-- EN: Craft the Noisy Squirrel RimCard. -->
+  <CraftSquirrel.description>Craft the Noisy Squirrel RimCard.</CraftSquirrel.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftSquirrel.jobString>Craft RimCard.</CraftSquirrel.jobString>
+  <!-- EN: Craft Yorkshire Terrier RimCard (common) -->
+  <CraftTerrier.label>Craft Yorkshire Terrier RimCard (common)</CraftTerrier.label>
+  <!-- EN: Craft the Evil Yorkshire Terrier RimCard. -->
+  <CraftTerrier.description>Craft the Evil Yorkshire Terrier RimCard.</CraftTerrier.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftTerrier.jobString>Craft RimCard.</CraftTerrier.jobString>
+  <!-- EN: Craft Thrumbo RimCard (legendary) -->
+  <CraftThrumbo.label>Craft Thrumbo RimCard (legendary)</CraftThrumbo.label>
+  <!-- EN: Craft the Mighty Thrumbo RimCard. -->
+  <CraftThrumbo.description>Craft the Mighty Thrumbo RimCard.</CraftThrumbo.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftThrumbo.jobString>Craft RimCard.</CraftThrumbo.jobString>
+  <!-- EN: Craft Turkey RimCard (common) -->
+  <CraftTurkey.label>Craft Turkey RimCard (common)</CraftTurkey.label>
+  <!-- EN: Craft the Fat Turkey RimCard. -->
+  <CraftTurkey.description>Craft the Fat Turkey RimCard.</CraftTurkey.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftTurkey.jobString>Craft RimCard.</CraftTurkey.jobString>
+  <!-- EN: Craft Warg RimCard (epic) -->
+  <CraftWarg.label>Craft Warg RimCard (epic)</CraftWarg.label>
+  <!-- EN: Craft the Feral Warg RimCard. -->
+  <CraftWarg.description>Craft the Feral Warg RimCard.</CraftWarg.description>
+  <!-- EN: Craft RimCard. -->
+  <CraftWarg.jobString>Craft RimCard.</CraftWarg.jobString>
+  <!-- EN: Disenchant Common RimCard -->
+  <DisenchantCommon.label>Disenchant Common RimCard</DisenchantCommon.label>
+  <!-- EN: Disenchant a common RimCard into dust. -->
+  <DisenchantCommon.description>Disenchant a common RimCard into dust.</DisenchantCommon.description>
+  <!-- EN: Disenchant RimCard. -->
+  <DisenchantCommon.jobString>Disenchant RimCard.</DisenchantCommon.jobString>
+  <!-- EN: Disenchant Common Shiny RimCard -->
+  <DisenchantCommonShiny.label>Disenchant Common Shiny RimCard</DisenchantCommonShiny.label>
+  <!-- EN: Disenchant a common shiny RimCard into dust. -->
+  <DisenchantCommonShiny.description>Disenchant a common shiny RimCard into dust.</DisenchantCommonShiny.description>
+  <!-- EN: Disenchant shiny RimCard. -->
+  <DisenchantCommonShiny.jobString>Disenchant shiny RimCard.</DisenchantCommonShiny.jobString>
+  <!-- EN: Disenchant Epic RimCard -->
+  <DisenchantEpic.label>Disenchant Epic RimCard</DisenchantEpic.label>
+  <!-- EN: Disenchant an epic RimCard into dust. -->
+  <DisenchantEpic.description>Disenchant an epic RimCard into dust.</DisenchantEpic.description>
+  <!-- EN: Disenchant RimCard. -->
+  <DisenchantEpic.jobString>Disenchant RimCard.</DisenchantEpic.jobString>
+  <!-- EN: Disenchant Epic Shiny RimCard -->
+  <DisenchantEpicShiny.label>Disenchant Epic Shiny RimCard</DisenchantEpicShiny.label>
+  <!-- EN: Disenchant an epic shiny RimCard into dust. -->
+  <DisenchantEpicShiny.description>Disenchant an epic shiny RimCard into dust.</DisenchantEpicShiny.description>
+  <!-- EN: Disenchant shiny RimCard. -->
+  <DisenchantEpicShiny.jobString>Disenchant shiny RimCard.</DisenchantEpicShiny.jobString>
+  <!-- EN: Disenchant Legendary RimCard -->
+  <DisenchantLegendary.label>Disenchant Legendary RimCard</DisenchantLegendary.label>
+  <!-- EN: Disenchant a legendary RimCard into dust. -->
+  <DisenchantLegendary.description>Disenchant a legendary RimCard into dust.</DisenchantLegendary.description>
+  <!-- EN: Disenchant RimCard. -->
+  <DisenchantLegendary.jobString>Disenchant RimCard.</DisenchantLegendary.jobString>
+  <!-- EN: Disenchant Legendary Shiny RimCard -->
+  <DisenchantLegendaryShiny.label>Disenchant Legendary Shiny RimCard</DisenchantLegendaryShiny.label>
+  <!-- EN: Disenchant a legendary shiny RimCard into dust. -->
+  <DisenchantLegendaryShiny.description>Disenchant a legendary shiny RimCard into dust.</DisenchantLegendaryShiny.description>
+  <!-- EN: Disenchant shiny RimCard. -->
+  <DisenchantLegendaryShiny.jobString>Disenchant shiny RimCard.</DisenchantLegendaryShiny.jobString>
+  <!-- EN: Disenchant Rare RimCard -->
+  <DisenchantRare.label>Disenchant Rare RimCard</DisenchantRare.label>
+  <!-- EN: Disenchant a rare RimCard into dust. -->
+  <DisenchantRare.description>Disenchant a rare RimCard into dust.</DisenchantRare.description>
+  <!-- EN: Disenchant RimCard. -->
+  <DisenchantRare.jobString>Disenchant RimCard.</DisenchantRare.jobString>
+  <!-- EN: Disenchant Rare Shiny RimCard -->
+  <DisenchantRareShiny.label>Disenchant Rare Shiny RimCard</DisenchantRareShiny.label>
+  <!-- EN: Disenchant a rare shiny RimCard into dust. -->
+  <DisenchantRareShiny.description>Disenchant a rare shiny RimCard into dust.</DisenchantRareShiny.description>
+  <!-- EN: Disenchant shiny RimCard. -->
+  <DisenchantRareShiny.jobString>Disenchant shiny RimCard.</DisenchantRareShiny.jobString>
+</LanguageData>

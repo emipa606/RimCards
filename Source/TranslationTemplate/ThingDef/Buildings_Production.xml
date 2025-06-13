@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Rimcard Crafting Table -->
+  <CraftingRimcardTable.label>Rimcard Crafting Table</CraftingRimcardTable.label>
+  <!-- EN: Craft RimCards from dust and other things. -->
+  <CraftingRimcardTable.description>Craft RimCards from dust and other things.</CraftingRimcardTable.description>
+  <!-- EN: Rimcard Disenchanting Table -->
+  <DisenchantingRimcardTable.label>Rimcard Disenchanting Table</DisenchantingRimcardTable.label>
+  <!-- EN: Disenchant Rimcards to collect dust or craft RimCards from dust. You can also create Shiny Rimcards using the original version and some gold. -->
+  <DisenchantingRimcardTable.description>Disenchant Rimcards to collect dust or craft RimCards from dust. You can also create Shiny Rimcards using the original version and some gold.</DisenchantingRimcardTable.description>
+</LanguageData>
